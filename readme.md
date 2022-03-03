@@ -1,9 +1,12 @@
+#read me
 
-#Adeola kay
+#Adola kay
 
-The Najia story
+An Educational and Tourism website
 
-
-Her website
-
-Story for another day
+##feature
+- Home
+- Education
+- Tourism
+- About
+- Contact
